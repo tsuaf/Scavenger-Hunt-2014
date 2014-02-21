@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+#include<stdio.h>
+
+main()
+{
+    printf("Hello World!!! Best regards for all scavenger hunters, and specially for FREELANCER!");
+
+
+}
