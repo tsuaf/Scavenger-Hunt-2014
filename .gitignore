@@ -15,7 +15,7 @@
 
 main()
 {
-    printf("Hello World!!! Best regards for all scavenger hunters 2014, and specially for FREELANCER!");
+    printf("Hello World!!! Best regards to all ScavHunters2014, and especially to freelancer.com");
     return 0;
 
 }
